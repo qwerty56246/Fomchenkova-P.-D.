@@ -6,3 +6,4 @@ https://docs.google.com/document/d/11ZYoim-M8MxhrYHzUqV8EoP3ZWoFVtRZCGFaiLx-Y3E/
 https://docs.google.com/document/d/1ljwSw-Yxmnu9wwt-hDRqc8nBRsArYfud6bl1ycEWF4Q/edit?usp=sharing лекция информационная безопасность 
 https://docs.google.com/document/d/1-C2yEyAUnqYgWgHyuUDpnQrtJtRgQvjOs3oOeguKqro/edit?usp=sharing лекция гит
 https://docs.google.com/document/d/1qs2vq0N35VE0kj1_EzxxscVWEfOSFQNpwFAq75DJ1dE/edit?usp=sharing лекция эджайл
+https://drive.google.com/file/d/1-0wowIOabZqqql9HN7Gc8AS5IekEbOer/view?usp=sharing лекция по информатике
