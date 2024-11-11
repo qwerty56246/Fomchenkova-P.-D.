@@ -7,3 +7,4 @@ https://docs.google.com/document/d/1ljwSw-Yxmnu9wwt-hDRqc8nBRsArYfud6bl1ycEWF4Q/
 https://docs.google.com/document/d/1-C2yEyAUnqYgWgHyuUDpnQrtJtRgQvjOs3oOeguKqro/edit?usp=sharing лекция гит
 https://docs.google.com/document/d/1qs2vq0N35VE0kj1_EzxxscVWEfOSFQNpwFAq75DJ1dE/edit?usp=sharing лекция эджайл
 https://drive.google.com/file/d/1-0wowIOabZqqql9HN7Gc8AS5IekEbOer/view?usp=sharing лекция по информатике
+https://docs.google.com/document/d/1CE4JHYn-VjoJxHJ0A-UWDqhlmC4LWRths7aNc7nPi8w/edit?usp=sharing конспект по питону. степик
